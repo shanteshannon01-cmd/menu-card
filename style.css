@@ -1,13 +1,17 @@
 body {
-    background-color:antiqueWhite;
-    font-family:courier;
-    max-width:40rem;
-    margin:40px auto;
+    background-image: url("images/background.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: courier;
+    max-width: 40rem;
+    margin: 40px auto;
 }
 
 h1{
-    color:darkslategray;
+    color:gold;
     text-align: center;
+    text-decoration: underline;
 }
 
 form {
@@ -38,4 +42,5 @@ button{
 
 p{
     text-align: center;
+    color:white;
 }
