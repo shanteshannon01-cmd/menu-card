@@ -1,0 +1,37 @@
+body {
+    background-color:antiqueWhite;
+    font-family:courier;
+    max-width:40rem;
+    margin:40px auto;
+}
+
+h1{
+    color:darkslategray;
+    text-align: center;
+}
+
+form {
+    background-color:white;
+    padding:20px;
+    border-radius:12px;
+    box-shadow: 0px px 10px rgba(0,0,0,0.1);
+}
+
+textarea{
+    width:100%;
+}
+
+button{
+    background-color:darkslategray;
+    color:white;
+    padding:10px;    
+    border-radius:5px;
+    cursor:pointer;
+    border:none;
+}
+
+#menu-text{
+    white-space:pre-line;
+    background-color:#2b2b2b;
+    color:white;
+}
